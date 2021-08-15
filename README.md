@@ -6,7 +6,7 @@ The code in the two Jupyternotebook files, 'Movie Collaborative Filtering Recomm
 
 #File 1: 'Hybrid context-based Collaborative Filtering model using Tensorflow.ipynb'
 
-
+The first part builds a tensorflow model with two embeddings- one for user_id and one for film_id. These embeddings are 
 
 
 #File 2: 'Movie Collaborative Filtering Recommendation with SVD and KNNWithMeans.ipynb'
